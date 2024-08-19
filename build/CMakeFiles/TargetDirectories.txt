@@ -1,0 +1,3 @@
+F:/file_encryption/build/CMakeFiles/file_encryptor.dir
+F:/file_encryption/build/CMakeFiles/edit_cache.dir
+F:/file_encryption/build/CMakeFiles/rebuild_cache.dir
